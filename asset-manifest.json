@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/progress/static/css/main.f8fdfaca.css",
+    "main.js": "/progress/static/js/main.3da5ccff.js",
+    "index.html": "/progress/index.html",
+    "main.f8fdfaca.css.map": "/progress/static/css/main.f8fdfaca.css.map",
+    "main.3da5ccff.js.map": "/progress/static/js/main.3da5ccff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8fdfaca.css",
+    "static/js/main.3da5ccff.js"
+  ]
+}
